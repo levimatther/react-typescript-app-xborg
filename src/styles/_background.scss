@@ -1,0 +1,8 @@
+body .app-background {
+  background-image: url("../assets/imgs/bg_image.png");
+  background-size: cover;
+
+  @media (max-width: 768px) {
+    background-image: none;
+  }
+}

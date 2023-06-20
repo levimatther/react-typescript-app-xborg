@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./background";
+@import "./typography";
+
+// Modules that could be refactored with tailwind
+@import "./simplebar";
+@import "./tippy";
+@import "./swiper";
