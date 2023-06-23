@@ -9,6 +9,8 @@ import "swiper/css/pagination";
 
 import "./styles/main.css";
 
+// this is my project
+
 function App() {
   return (
     <div className='font-body bg-dark100 h-screen flex flex-1 flex-col overflow-hidden app-background'>
